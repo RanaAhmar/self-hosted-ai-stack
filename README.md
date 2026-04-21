@@ -45,21 +45,6 @@ It includes a lightweight LLM runner, a vector database for Retrieval-Augmented 
 
 Contributions to improve performance, add new integrations, or update tool versions are welcome! Please open an issue or submit a pull request.
 
----
-
-## 🏢 About Stackaura
-
-This repository is maintained by **Stackaura**. We specialize in providing top-tier digital solutions, focusing on cutting-edge web development, premium branding, scalable backend architecture, and private AI infrastructure designed to secure and elevate your business.
-
-**Ready to build something amazing?**
-> Visit us at [**Stackaura.com**](https://www.stackaura.com/) to learn more about our services and how we can help scale your next local AI project.
-
-<div align="center">
-  <a href="https://www.stackaura.com/">
-    <img src="https://img.shields.io/badge/Visit-Stackaura-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Stackaura" />
-  </a>
-</div>
-
 
 ---
 
@@ -78,3 +63,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
